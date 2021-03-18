@@ -9,7 +9,8 @@ var config = {
     computer: "Raspberry Pi 3 B+",
     owner: "Jason Hitesman",
     auroraMap: "north",
-    overlaySize: 875,
-    overlayOffsetLeft: -20,
-    overlayOffsetTop: 5,
+//    overlaySize: 875,
+    overlaySize: 720,
+    overlayOffsetLeft: 125,
+    overlayOffsetTop: -5,
 }
